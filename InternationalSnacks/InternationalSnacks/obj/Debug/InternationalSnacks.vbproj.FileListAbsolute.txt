@@ -1,0 +1,12 @@
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\bin\Debug\InternationalSnacks.exe.config
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\bin\Debug\InternationalSnacks.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\bin\Debug\InternationalSnacks.pdb
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\bin\Debug\InternationalSnacks.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.vbprojAssemblyReference.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.Form1.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.Resources.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.vbproj.GenerateResource.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.vbproj.CoreCompileInputs.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.pdb

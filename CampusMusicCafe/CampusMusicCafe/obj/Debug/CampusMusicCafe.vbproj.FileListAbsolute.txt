@@ -1,0 +1,12 @@
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\bin\Debug\CampusMusicCafe.exe.config
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\bin\Debug\CampusMusicCafe.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\bin\Debug\CampusMusicCafe.pdb
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\bin\Debug\CampusMusicCafe.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.vbprojAssemblyReference.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.Form1.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.Resources.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.vbproj.GenerateResource.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.vbproj.CoreCompileInputs.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.pdb

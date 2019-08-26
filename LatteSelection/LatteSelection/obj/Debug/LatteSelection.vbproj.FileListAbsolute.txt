@@ -1,0 +1,12 @@
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\bin\Debug\LatteSelection.exe.config
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\bin\Debug\LatteSelection.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\bin\Debug\LatteSelection.pdb
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\bin\Debug\LatteSelection.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\obj\Debug\LatteSelection.vbprojAssemblyReference.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\obj\Debug\LatteSelection.Form1.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\obj\Debug\LatteSelection.Resources.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\obj\Debug\LatteSelection.vbproj.GenerateResource.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\obj\Debug\LatteSelection.vbproj.CoreCompileInputs.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\obj\Debug\LatteSelection.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\obj\Debug\LatteSelection.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter2\LatteSelection\LatteSelection\LatteSelection\obj\Debug\LatteSelection.pdb
