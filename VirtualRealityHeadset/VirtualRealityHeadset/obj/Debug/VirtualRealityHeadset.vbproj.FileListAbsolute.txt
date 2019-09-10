@@ -22,3 +22,15 @@ H:\My Documents\VisualBasic\VisualBasic-chapter2\VirtualRealityHeadset\VirtualRe
 H:\My Documents\VisualBasic\VisualBasic-chapter2\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.exe
 H:\My Documents\VisualBasic\VisualBasic-chapter2\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.xml
 H:\My Documents\VisualBasic\VisualBasic-chapter2\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\bin\Debug\VirtualRealityHeadset.exe.config
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\bin\Debug\VirtualRealityHeadset.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\bin\Debug\VirtualRealityHeadset.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\bin\Debug\VirtualRealityHeadset.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.vbprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.Form1.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.Resources.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.vbproj.GenerateResource.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.vbproj.CoreCompileInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\VirtualRealityHeadset\VirtualRealityHeadset\obj\Debug\VirtualRealityHeadset.pdb

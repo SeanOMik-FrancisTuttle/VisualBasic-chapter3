@@ -10,3 +10,15 @@ H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe
 H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.exe
 H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.xml
 H:\My Documents\VisualBasic\VisualBasic-chapter2\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\bin\Debug\CampusMusicCafe.exe.config
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\bin\Debug\CampusMusicCafe.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\bin\Debug\CampusMusicCafe.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\bin\Debug\CampusMusicCafe.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.vbprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.Form1.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.Resources.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.vbproj.GenerateResource.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.vbproj.CoreCompileInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\CampusMusicCafe\CampusMusicCafe\obj\Debug\CampusMusicCafe.pdb

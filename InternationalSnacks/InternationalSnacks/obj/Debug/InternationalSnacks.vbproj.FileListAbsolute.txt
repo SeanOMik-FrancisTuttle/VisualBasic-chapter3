@@ -10,3 +10,15 @@ H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\Internation
 H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.exe
 H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.xml
 H:\My Documents\VisualBasic\VisualBasic-chapter2\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\bin\Debug\InternationalSnacks.exe.config
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\bin\Debug\InternationalSnacks.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\bin\Debug\InternationalSnacks.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\bin\Debug\InternationalSnacks.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.vbprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.Form1.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.Resources.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.vbproj.GenerateResource.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.vbproj.CoreCompileInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter3\InternationalSnacks\InternationalSnacks\obj\Debug\InternationalSnacks.pdb
